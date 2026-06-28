@@ -4,17 +4,17 @@ Java Multithreading
 This repository contains Java Multithreading programs covering fundamental to advanced concepts with practical examples. It is useful for learning, practicing, and interview preparation.
 
 📚 Study Order
-ThreadDemo
-ThreadGroup
-Interface
-Abstraction
-Synchronization
-Communication
-Prevent
-LockDemo
-ExecutorService
-ReturnDemo
-Java8
+ThreadDemo ,
+ThreadGroup ,
+Interface ,
+Abstraction ,
+Synchronization ,
+Communication ,
+Prevent ,
+LockDemo ,
+ExecutorService ,
+ReturnDemo ,
+Java8 
 
 📂 Topics Covered
 Thread Creation
